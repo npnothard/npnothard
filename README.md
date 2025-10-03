@@ -11,7 +11,7 @@ My research focuses on algorithm design and system implementation towards effici
 - **[2022.09-Now] Nanjing University**  
   Ph.D. in Information and Communications Engineering
 
-- **[2018.09-2022.06] University of Cambridge**  
+- **[2018.09-2022.06] Huazhong University of Science and Technology**  
   B.S. in Physics 
   
 <!--
