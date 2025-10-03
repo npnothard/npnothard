@@ -9,7 +9,7 @@ My research focuses on algorithm design and system implementation towards effici
 
 ## 🎓 Education
 
-- **Nanjing University [Sep., 2022 - Now]**
+- **Nanjing University [Sep., 2022 - Now]** 
   Ph.D. in Information and Communications Engineering
 
 - **Huazhong University of Science and Technology [Sep., 2018 - Jun., 2022]**  
