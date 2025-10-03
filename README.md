@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-Hello, This is Yurchenko! The site is currently under construction.
+The site is currently under construction.
 
+## 🦖 About Me
+
+Hello, This is Yurchenko, a Ph.D. student in Information and Communication Engineering at Nanjing University.
+My research focuses on algorithm design and system implementation towards efficient distributed computing. In particular, I design, analyze, and implement online scheduling algorithms and systems tailored for edge and serverless environments to support both general-purpose and AI workloads. I am also interested in accelerating distributed machine learning systems, with a current focus on on-device Mixture-of-Experts (MoE) serving.
+
+## 🎓 Education
 
 <!--
 **npnothard/npnothard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
