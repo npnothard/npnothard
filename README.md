@@ -9,23 +9,10 @@ My research focuses on algorithm design and system implementation towards effici
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td align="left"><b>Nanjing University</b></td>
-<td align="right">2022.09 - Now</td>
-</tr>
-<tr>
-<td colspan="2">PhD in Distributed Computing</td>
-</tr>
-<tr>
-<td colspan="2">Supervisor: hhh </td>
-</tr>
-</table>
-
-- **Nanjing University <div align="right">2024.01 - Now</div>**
+- **Nanjing University, Sep., 2022 - Now**
   Ph.D. in Information and Communications Engineering
 
-- **[2018.09-2022.06] Huazhong University of Science and Technology**  
+- **Huazhong University of Science and Technology,  Sep., 2018 - Jun., 2022**  
   B.S. in Physics 
   
 <!--
