@@ -4,7 +4,7 @@ The site is currently under construction.
 
 ## 🦖 About Me
 
-Hello, I’m Yurchenko, a Ph.D. student at Nanjing University, where I am unfortunate enough to be adviced by Prof. Shaowei Wang. 
+Hello, I’m Yurchenko, a Ph.D. student at Nanjing University. 
 My research lies at the intersection of algorithmic theory and system-level optimization for elastic, time-efficient distributed computing. 
 In particular, I design, analyze, and implement scheduling algorithms and systems for edge and on-device environments, supporting both general-purpose and AI workloads. 
 My current interests focus on accelerating distributed LLM systems, with an emphasis on on-device Mixture-of-Experts (MoE) serving.
