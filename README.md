@@ -8,6 +8,20 @@ Hello, this is Yurchenko, a Ph.D. student at Nanjing University.
 My research focuses on algorithm design and system implementation towards efficient distributed computing. In particular, I design, analyze, and implement online scheduling algorithms and systems tailored for edge and serverless environments to support both general-purpose and AI workloads. I am also interested in accelerating distributed machine learning systems, with a current focus on on-device Mixture-of-Experts (MoE) serving.
 
 ## 🎓 Education
+
+<table>
+<tr>
+<td align="left"><b>Nanjing University</b></td>
+<td align="right">2022.09 - Now</td>
+</tr>
+<tr>
+<td colspan="2">PhD in Distributed Computing</td>
+</tr>
+<tr>
+<td colspan="2">Supervisor: hhh </td>
+</tr>
+</table>
+
 - **Nanjing University <div align="right">2024.01 - Now</div>**
   Ph.D. in Information and Communications Engineering
 
