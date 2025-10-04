@@ -22,20 +22,25 @@ My current interests focus on accelerating distributed LLM systems, with an emph
 ## 📜 Publications  
 
 - **_Serverless Orchestration at the Edge via Integrated Placing, Scheduling, and Splittable Routing_**  
-  **Yuchen Yang** and Shaowei Wang. *IEEE/ACM Transactions on Networking*, 2025. *(Under Review, in submission for almost a year ... )*
+  **Yuchen Yang** and Shaowei Wang.  
+  *IEEE/ACM Transactions on Networking*, 2025. *(Under Review, in submission for almost a year ... )*
 
 - **_EdgeOPT: A Competitive Algorithm for Online Parallel Task Scheduling with Latency Guarantee in Mobile Edge Computing_**  
-  **Yuchen Yang** and Shaowei Wang. *IEEE Transactions on Communications*, *vol. 72, no. 11, pp. 7077-7092, Nov. 2024.*, 2024.
+  **Yuchen Yang** and Shaowei Wang.  
+  *IEEE Transactions on Communications*, *vol. 72, no. 11, pp. 7077-7092, Nov. 2024.*, 2024.
 
 - **_Lightning in the Dark: Scheduling Non-Clairvoyant Coflows at the Wireless Edge_**  
-  **Yuchen Yang** and Shaowei Wang. *Proc. of the IEEE Wireless and Optical Communications Conference 2025 (WOCC’25)*, Macau, China, May 2025.
+  **Yuchen Yang** and Shaowei Wang.  
+  *In Proc. of the IEEE Wireless and Optical Communications Conference 2025 (WOCC’25)*, Macau, China, May 2025.
   🏆 **M-Tel Best Paper Award**
 
 - **_Online Scheduling and Splittable Routing for Serverless Functions at Network Edge_**  
-  **Yuchen Yang** and Shaowei Wang. *Proc. of the IEEE Global Communications Conference 2024 (Globecom’24)*, Cape Town, South Africa, Dec. 2024.
+  **Yuchen Yang** and Shaowei Wang.  
+  *In Proc. of the IEEE Global Communications Conference 2024 (Globecom’24)*, Cape Town, South Africa, Dec. 2024.
 
 - **_Joint Source-Channel Coding for Wireless Image Transmission: A Neural Architecture Search Approach_**  
-  **Yuchen Yang** and Shaowei Wang. *Proc. of the IEEE International Conference on Communications 2023 (ICC'23)*, Rome, Italy, May–Jun. 2023.
+  **Yuchen Yang** and Shaowei Wang.  
+  *In Proc. of the IEEE International Conference on Communications 2023 (ICC'23)*, Rome, Italy, May–Jun. 2023.
 
 
 ## ⚽ Miscellaneous
