@@ -22,7 +22,7 @@ My current interests focus on accelerating distributed LLM systems, with an emph
 ## 📜 Publications  
 
 - **_Serverless Orchestration at the Edge via Integrated Placing, Scheduling, and Splittable Routing_**  
-  **Yuchen Yang** and Shaowei Wang. *IEEE/ACM Transactions on Networking*, 2025. *(In Submission)*
+  **Yuchen Yang** and Shaowei Wang. *IEEE/ACM Transactions on Networking*, 2025. *(Under Review, in submission for almost a year ... )*
 
 - **_EdgeOPT: A Competitive Algorithm for Online Parallel Task Scheduling with Latency Guarantee in Mobile Edge Computing_**  
   **Yuchen Yang** and Shaowei Wang. *IEEE Transactions on Communications*, *vol. 72, no. 11, pp. 7077-7092, Nov. 2024.*, 2024.
@@ -39,11 +39,11 @@ My current interests focus on accelerating distributed LLM systems, with an emph
 
 
 ## ⚽ Miscellaneous
-I have a wide range of hobbies, spanning from sports to the arts. 
+I have a wide range of hobbies, spanning from sports to arts. 
 I am particularly passionate about soccer: I served as the captain of the soccer team at the School of Physics, HUST, and was fortunate to play alongside passionate and cohesive teammates. 
 Together, we won a championship in 2019 and secured two runner-up finishes in 2021 and 2022—the only season we didn’t finish in the top two was due to the pandemic.
 
-Beyond sports, I have a deep interest in music, especially Soviet Army songs, Russian, Ukrainian, and Polish folk music, as well as Cossack-style tunes.  
+Beyond sports, I have a deep interest in music, especially Soviet Army songs, Russian, Ukrainian, and Polish folk music, as well as Cossack-style tunes.
 Here's a list of my personal recommendations:
 
 
