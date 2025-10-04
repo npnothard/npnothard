@@ -51,6 +51,7 @@ Together, we won a championship in 2019 and secured two runner-up finishes in 20
 Beyond sports, I have a deep interest in music, especially Soviet Army songs, Russian, Ukrainian, and Polish folk music, as well as Cossack-style tunes.
 Here's a list of my personal recommendations:
 
++ Московский Казачий Хор (Moscow Cossack Choir)
 
 
 
