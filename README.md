@@ -21,7 +21,7 @@ My current interests focus on accelerating distributed LLM systems, with an emph
 
 ## 📜 Publications  
 
-- **_Serverless Orchestration at the Edge via Integrated Placing, Scheduling, and Splittable Routing_**  
+- **_Serverless Orchestration at the Edge via Integrated Online Placing, Scheduling, and Splittable Routing_**  
   **Yuchen Yang** and Shaowei Wang.  
   *IEEE/ACM Transactions on Networking*, 2025. *(Under Review, in submission for almost a year ... )*
 
