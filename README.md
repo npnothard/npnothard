@@ -6,7 +6,7 @@ The site is currently under construction.
 
 Hello, I’m Yurchenko, a Ph.D. student at Nanjing University. 
 My research lies at the intersection of algorithmic theory and system-level optimization for elastic, time-efficient distributed computing. 
-In particular, I design, analyze, and implement scheduling algorithms and systems for edge and on-device environments, supporting both general-purpose and AI workloads. 
+In particular, I design, analyze, and implement scheduling algorithms and systems for edge and on-device computing environments to support both general-purpose and AI workloads. 
 My current interests focus on accelerating distributed LLM systems, with an emphasis on on-device Mixture-of-Experts (MoE) serving.
 
 
