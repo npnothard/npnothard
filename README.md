@@ -28,7 +28,7 @@ My current interests focus on accelerating distributed LLM systems, with an emph
   **Yuchen Yang** and Shaowei Wang. *IEEE Transactions on Communications*, *vol. 72, no. 11, pp. 7077-7092, Nov. 2024.*, 2024.
 
 - **_Lightning in the Dark: Scheduling Non-Clairvoyant Coflows at the Wireless Edge_**  
-  **Yuchen Yang** and Shaowei Wang. *Proc. of the IEEE Wireless and Optical Communications Conference 2025 (WOCC’25)*, Macau, China, May 2025.  
+  **Yuchen Yang** and Shaowei Wang. *Proc. of the IEEE Wireless and Optical Communications Conference 2025 (WOCC’25)*, Macau, China, May 2025.
   🏆 **M-Tel Best Paper Award**
 
 - **_Online Scheduling and Splittable Routing for Serverless Functions at Network Edge_**  
