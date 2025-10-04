@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there 👋 This is a personal web page.
 
-The site is currently under construction.
+The website is currently under construction.
 
 ## 🦖 About Me
 
-Hello, I’m Yurchenko, a Ph.D. student at Nanjing University. 
+Hello, this is Yuchen Yang, a Ph.D. student at Nanjing University. 
 My research lies at the intersection of algorithmic theory and system-level optimization for elastic, time-efficient distributed computing. 
 In particular, I design, analyze, and implement scheduling algorithms and systems for edge and on-device computing environments to support both general-purpose and AI workloads. 
 My current interests focus on accelerating distributed LLM systems, with an emphasis on on-device Mixture-of-Experts (MoE) serving.
@@ -39,6 +39,12 @@ My current interests focus on accelerating distributed LLM systems, with an emph
 
 
 ## ⚽ Miscellaneous
+I have a wide range of hobbies, spanning from sports to the arts. 
+I am particularly passionate about soccer: I served as the captain of the soccer team at the School of Physics, HUST, and was fortunate to play alongside passionate and cohesive teammates. 
+Together, we won a championship in 2019 and secured two runner-up finishes in 2021 and 2022—the only season we didn’t finish in the top two was due to the pandemic.
+
+Beyond sports, I have a deep interest in music, especially Soviet Army songs, Russian, Ukrainian, and Polish folk music, as well as Cossack-style tunes.  
+Here's a list of my personal recommendations:
 
 
 
