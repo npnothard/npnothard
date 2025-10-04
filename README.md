@@ -12,10 +12,10 @@ My current interests focus on accelerating distributed LLM systems, with an emph
 
 ## 🎓 Education
 
-- **Nanjing University   [Sep., 2022 - Now]**  
+> **Nanjing University   [Sep., 2022 - Now]**  
   Ph.D. in Information and Communications Engineering  
 
-- **Huazhong University of Science and Technology   [Sep., 2018 - Jun., 2022]**  
+> **Huazhong University of Science and Technology   [Sep., 2018 - Jun., 2022]**  
   B.S. in Physics  
 
 
@@ -25,7 +25,7 @@ My current interests focus on accelerating distributed LLM systems, with an emph
   **Yuchen Yang** and Shaowei Wang. *IEEE/ACM Transactions on Networking*, 2025. *(In Submission)*
 
 - **_EdgeOPT: A Competitive Algorithm for Online Parallel Task Scheduling with Latency Guarantee in Mobile Edge Computing_**  
-  **Yuchen Yang** and Shaowei Wang. *IEEE Transactions on Communications*, *in press*, 2024.
+  **Yuchen Yang** and Shaowei Wang. *IEEE Transactions on Communications*, *vol. 72, no. 11, pp. 7077-7092, Nov. 2024.*, 2024.
 
 - **_Lightning in the Dark: Scheduling Non-Clairvoyant Coflows at the Wireless Edge_**  
   **Yuchen Yang** and Shaowei Wang. *Proc. of the IEEE Wireless and Optical Communications Conference 2025 (WOCC’25)*, Macau, China, May 2025.  
