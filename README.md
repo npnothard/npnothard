@@ -22,7 +22,7 @@ My current interests focus on accelerating distributed LLM systems, with an emph
 ## 📜 Publications  
 
 - **_ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling_**  
-  **Yuchen Yang**<sup>*</sup>, Yaru Zhao<sup>*</sup>, Pu Yang, Shaowei Wang, and Zhi-Hua Zhou
+  **Yuchen Yang***, Yaru Zhao*, Pu Yang, Shaowei Wang, and Zhi-Hua Zhou  
   ArXiv: 2601.21198.
 
 - **_IntFaaS: An Integrated Framework for Online Serverless Orchestration at the Network Edge_**  
