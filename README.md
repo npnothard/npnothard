@@ -21,9 +21,13 @@ My current interests focus on accelerating distributed LLM systems, with an emph
 
 ## 📜 Publications  
 
-- **_Serverless Orchestration at the Edge via Integrated Online Placing, Scheduling, and Splittable Routing_**  
+- **_ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling_**  
+  **Yuchen Yang**$^*$, Yaru Zhao$^*$, Pu Yang, Shaowei Wang, and Zhi-Hua Zhou
+  ArXiv: 2601.21198.
+
+- **_IntFaaS: An Integrated Framework for Online Serverless Orchestration at the Network Edge_**  
   **Yuchen Yang** and Shaowei Wang.  
-  *IEEE/ACM Transactions on Networking*, 2025. *(Under Review, in submission for almost a year ... )*
+  *IEEE Transactions on Computers*, 2026. (In Submission)
 
 - **_EdgeOPT: A Competitive Algorithm for Online Parallel Task Scheduling with Latency Guarantee in Mobile Edge Computing_**  
   **Yuchen Yang** and Shaowei Wang.  
